@@ -1,0 +1,63 @@
+@charset "ISO-8859-1";
+body{
+	background:url(tinder-logo.jpg);
+	background-size:100%;
+	
+}
+.card{
+	text-align:center;
+	padding:20px;
+	margin:65px auto;
+}
+.logo1{
+	height:40px;
+	width: 40px;
+	margin:15px auto;
+	border-radius:50%;
+	
+	
+}
+#tittle{
+	font-size:22px;
+	font-family:Italic;
+	font-weight:bold;
+	text-transform:uppercase;
+	margin:20px auto;
+}
+#other{
+	font-size:12px;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:underline;
+	color:grey;
+	margin:15px auto;
+}
+h2{
+	font-size:20px;
+	font-family:century gothic;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.terms{
+	font-size:14px;
+	font-family:arial;
+	font-weight:bold;
+	text-decoration:underline;
+	color:#D4D4D4;
+}
+#info{
+	font-size:14px;
+	font-family:arial;
+	text-decoration:none;
+	
+}
+.apple{
+	border: 3px outset #D4D4D4;
+	border-radius: 5px;
+	
+}
+.google{
+	border:2.5px outset #D4D4D4;
+	border-radius: 5px;
+	
+}
